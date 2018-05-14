@@ -1,8 +1,5 @@
 # LINUX_HANDBOOK
 
-
-[TOC]
-
 ## 一章
 
 ## 二章
